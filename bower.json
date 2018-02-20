@@ -1,0 +1,26 @@
+{
+  "name": "lib-d3-tip",
+  "version": "0.6.7",
+  "homepage": "https://github.com/alodavide/lib-d3-tip",
+  "authors": [
+    "Alodavide <alodavide@gmail.com"
+  ],
+  "description": "Html for d3-tip.js one time html import with Polymer",
+  "main": "lib-d3-tip.html",
+  "keywords": [
+    "d3-tip",
+    "html",
+    "imports"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3-tip": "Caged/d3-tip"
+  }
+}
